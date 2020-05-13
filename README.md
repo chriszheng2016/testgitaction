@@ -5,6 +5,8 @@
 
 <!-- badges: start -->
 
+[![R build
+status](https://github.com/chriszheng2016/testgitaction/workflows/R-CMD-check/badge.svg)](https://github.com/chriszheng2016/testgitaction/actions)
 <!-- badges: end -->
 
 The goal of testgitaction is to …
