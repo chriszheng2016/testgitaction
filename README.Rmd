@@ -42,7 +42,10 @@ devtools::install_github("chriszheng2016/testgitaction")
 This is a basic example which shows you how to solve a common problem:
 
 ```{r example}
-library(testgitaction)
+# comment to make render readme.md since testgitaction
+# doesn't exit
+#library(testgitaction)
+
 ## basic example code
 ```
 
