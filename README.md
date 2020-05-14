@@ -7,6 +7,8 @@
 
 [![R build
 status](https://github.com/chriszheng2016/testgitaction/workflows/R-CMD-check/badge.svg)](https://github.com/chriszheng2016/testgitaction/actions)
+[![Codecov test
+coverage](https://codecov.io/gh/chriszheng2016/testgitaction/branch/master/graph/badge.svg)](https://codecov.io/gh/chriszheng2016/testgitaction?branch=master)
 <!-- badges: end -->
 
 The goal of testgitaction is to …
