@@ -21,7 +21,7 @@ knitr::opts_chunk$set(
 ![test-coverage](https://github.com/chriszheng2016/testgitaction/workflows/test-coverage/badge.svg)
 <!-- badges: end -->
 
-test work-flow:render-readme.yaml
+test work-flow render-readme.yaml
 
 The goal of testgitaction is to ...
 
