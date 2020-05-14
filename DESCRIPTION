@@ -18,3 +18,5 @@ BugReports: https://github.com/chriszheng2016/testgitaction/issues
 Suggests: 
     testthat,
     covr
+Imports: 
+    forcats
