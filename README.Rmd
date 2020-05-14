@@ -21,8 +21,6 @@ knitr::opts_chunk$set(
 ![test-coverage](https://github.com/chriszheng2016/testgitaction/workflows/test-coverage/badge.svg)
 <!-- badges: end -->
 
-test work-flow render-readme
-
 The goal of testgitaction is to ...
 
 ## Installation
