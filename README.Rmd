@@ -74,3 +74,5 @@ In that case, don't forget to commit and push the resulting figure files, so the
 # Test pull request
 
 * Line1
+
+* Line2
